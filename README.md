@@ -10,8 +10,11 @@
  2. Model
     
     a. MLP
+    
     b. CNN
+    
     c. LSTM
+    
     d. CNN + LSTM
     
 
