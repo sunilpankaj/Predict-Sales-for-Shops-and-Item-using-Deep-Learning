@@ -1,5 +1,5 @@
 # Predict-Sales-for-Shops-and-Item-using-Deep-Learning
- forecast the total amount of products sold in every shop, time series forecasting using deep learning. 
+ forecast the total amount of sales in every shop's items, time series forecasting using deep learning. 
  
  Packages:
  1. Python3, Numpy, Pandas
