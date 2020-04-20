@@ -23,7 +23,7 @@
     
     d. CNN + LSTM
     
-DataSet : https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
+Dataset : https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
 
 Additional Resource
 
