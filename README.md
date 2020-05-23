@@ -27,7 +27,4 @@ Dataset : https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 
 Additional Resource
 
-LSTM AutoEncoder for annomaly detection see this repository.
-
-
 
